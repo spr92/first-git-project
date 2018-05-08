@@ -1,0 +1,23 @@
+commit fae7e0f357653a960f65b7fc17703ac1c8df09ce
+Author: perspr <bpaydar7@gmail.com>
+Date:   Tue May 8 12:57:59 2018 +0430
+
+    composed .gitignore v1.0
+
+commit 9391a2c6c2fa4e06d924282f6029b10b38a11305
+Author: perspr <bpaydar7@gmail.com>
+Date:   Tue May 8 12:43:31 2018 +0430
+
+    modified readme.txt
+
+commit 14849a5369e6181d5f93215e880e94808cf3c936
+Author: perspr <bpaydar7@gmail.com>
+Date:   Tue May 8 11:58:42 2018 +0430
+
+    added two files & modified readme.txt
+
+commit 355cffb235cfeeb607eb3f8d519e1614868447df
+Author: perspr <bpaydar7@gmail.com>
+Date:   Tue May 8 11:52:47 2018 +0430
+
+    added readme.txt
