@@ -1,28 +1,8 @@
-# This is a large heading
+# About first-git-project
 
-## This is a smaller heading
+I am *Bahar*, a coding enthusiast who is currently learning the basics.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I currently am participating in [The Unix Workbench Course](https://www.coursera.org/learn/unix) on [coursera](https://coursera.org) and this project is the **practice project** for this course.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image](https://raw.githubusercontent.com/spr92/first-git-project/master/corgi%20%26%20bird.jpg)
